@@ -1,0 +1,39 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background: url("http://res.cloudinary.com/justiceotuya/image/upload/v1527196512/pexels-photo-965121.jpeg.jpg") top right no-repeat; background-attachment:fixed; 
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+
+div.container{
+  width:100%;
+  max-width: 600px !important;
+  margin:0 auto;
+ text-align: center;
+ margin-top: 50px;
+}
+
+.writing{
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+form{
+  padding-top: -20px;
+  background-color: #FFFAF0 !important;
+}
+.dropdown-content li>a, .dropdown-content li>span {
+  color: black !important;
+}
+
+.display{
+  padding-top:30px;
+}
+.display_card{
+  margin-bottom: 0px !important;
+}
+
+.btn{
+  margin:10px !important;
+}
